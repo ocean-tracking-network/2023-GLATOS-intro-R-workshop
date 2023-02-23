@@ -1,5 +1,5 @@
 ---
-title: BONUS: Basic Visualization and Plotting with glatos
+title: BONUS - Basic Visualization and Plotting with glatos
 teaching: 30
 exercises: 0
 questions:
