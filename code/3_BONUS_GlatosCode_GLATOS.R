@@ -1,4 +1,8 @@
-# 07 - Introduction to glatos ####
+# Introduction to glatos ####
+
+#The following bonus lesson requires more installations than were provided in the setup for this workshop.
+#if you would like to follow along, the steps can be found here https://ocean-tracking-network.github.io/otn-workshop-base/setup.html
+#under "Advanced Telemetry Workshop Requirements".
 
 ## Set your working directory
 
