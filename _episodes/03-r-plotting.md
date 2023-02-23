@@ -12,9 +12,6 @@ keypoints:
     - "You can feed output from dplyr's data manipulation functions into ggplot using pipes."
     - "Plotting various summaries and groupings of your data is good practice at the exploratory phase, and dplyr and ggplot make iterating different ideas straightforward."	  
 ---
-**Note to instructors: please choose the relevant Network below when teaching**
-
-## GLATOS Network
 
 ### Background
 
