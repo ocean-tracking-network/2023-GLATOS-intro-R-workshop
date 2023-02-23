@@ -1,5 +1,5 @@
 ---
-title: More Features of glatos
+title: BONUS: More Features of glatos
 teaching: 15
 exercises: 0
 questions:

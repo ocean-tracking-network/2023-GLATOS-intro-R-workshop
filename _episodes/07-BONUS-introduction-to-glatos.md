@@ -1,5 +1,5 @@
 ---
-title: Introduction to glatos Data Processing Package
+title: BONUS: Introduction to glatos Data Processing Package
 teaching: 30
 exercises: 0
 questions:
@@ -8,6 +8,8 @@ questions:
     - "How can I consolidate my detections into detection events?"
     - "How do I summarize my data?"
 ---
+
+**The following bonus lessons require more installations than were provided in the setup for this workshop, if you would like to follow along, the steps can be found [here](https://ocean-tracking-network.github.io/otn-workshop-base/setup.html) under "Advanced Telemetry Workshop Requirements"**
 
 The `glatos` package is a powerful toolkit that provides a wide range of functionality for loading, processing, and visualizing your data. With it, you can gain valuable insights with quick and easy commands that condense high volumes of base R into straightforward functions, with enough versatility to meet a variety of needs.
 
