@@ -7,7 +7,7 @@ questions:
     - "How do I import all the datasets?"
 ---
 
-## Importing all the datasets
+### Importing all the datasets
 Now that we have an idea of what an exploratory workflow might look like with Tidyverse libraries like `dplyr` and `ggplot2`, let's look at how we might implement a common telemetry workflow using these tools. 
 
 For the GLATOS Network you will receive Detection Extracts which include all the Tag matches for your animals. These can be used to create many meaningful summary reports.
